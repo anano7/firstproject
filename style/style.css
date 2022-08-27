@@ -185,6 +185,7 @@
   .kitxva1 a{
   font-size: 18px;
   transition: all 0.5s ease;
+
   }
   .kitxva1 a:hover{
   color: #000000;
@@ -447,7 +448,7 @@
   .office2{
   width: 100%;
   border-radius: 4px;
- }
+  }
 
   /* shetyobineba */
   .messagebox{
